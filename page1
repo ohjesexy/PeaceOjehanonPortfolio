@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peace Ojehanon - IT/Networking Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: RoyalBlue;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        p {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Peace Ojehanon</h1>
+        <p>IT/Networking Professional</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I am an IT/Networking professional with a passion for connecting people and devices.</p>
+    </section>
+    <section>
+        <h2>Contact Information</h2>
+        <p>Email: peaceojehanon5@gmail.com</p>
+        <p>LinkedIn: <a href="#">linkedin.com/in/peace-ojehanon</a></p>
+       
+    </section>
+</body>
+</html>
